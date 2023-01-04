@@ -1,0 +1,9 @@
+Anything that is auto generated can be put in the .gitignore
+
+What is NPM?
+NPM is a package manager for the JavaScript programming language.
+It consists of a command-line interface and an online database of public packages and private packages that are paid which is called the npm Registry.
+NPM is used to install, update, and manage packages (libraries, tools, etc.) that are published on the npm registry.
+It is like a Maven to the UI.
+We use npm because our React App is powered by lot of things or lot of packages like we need to minify, bundle the things up, remove the unwanted
+unwanted code, optimise the app. Inorder to perform these things we need the helper packages which are available from the NPM.
