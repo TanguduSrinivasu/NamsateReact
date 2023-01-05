@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Igniting the App",
   "scripts": {
+    "start": "parcel Index.html",
+    "build": "parcel build Index.html",
     "test": "jest"
   },
   "repository": {
@@ -16,7 +18,8 @@
   },
   "homepage": "https://github.com/TanguduSrinivasu/NamasteReact#readme",
   "devDependencies": {
-    "parcel": "^2.8.2"
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "react": "^18.2.0",
